@@ -1,0 +1,93 @@
+{
+  "id": "2991177",
+  "name": "baidy",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1360",
+      "name": "新浪微博",
+      "font_class": "xinlangweibo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "201561",
+      "name": "3.1铃铛",
+      "font_class": "lingdang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "986184",
+      "name": "微信",
+      "font_class": "weixin-copy",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "1119190",
+      "name": "微博(1)",
+      "font_class": "weibo1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1282647",
+      "name": "icon_weibo",
+      "font_class": "icon_weibo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1988572",
+      "name": "icon-weixin",
+      "font_class": "icon-weixin",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "2198755",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "3551620",
+      "name": "icon_icon_list",
+      "font_class": "icon_icon_list",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "5772659",
+      "name": "QQ邮箱",
+      "font_class": "QQyouxiang",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "5897521",
+      "name": "QQ邮箱",
+      "font_class": "mail-back",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "10635086",
+      "name": "搜索",
+      "font_class": "search",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
